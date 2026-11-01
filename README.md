@@ -6,6 +6,8 @@
 
 видим строчки welcome и ищем их в ассемблере
 
+<img width="427" height="236" alt="{03DB9F66-4215-4C6C-B46E-1E7C18BE02F1}" src="https://github.com/user-attachments/assets/8fad29cf-8e92-460f-b8f6-ef674493a272" />
+
 <img width="851" height="584" alt="{8BC08CA6-8F7B-4853-833C-96E4B80B31C6}" src="https://github.com/user-attachments/assets/05c0e11b-d685-4bf6-807f-06b801ee64fb" />
 
 идет проверка v9 и v7 , v10 и v8 , видим что сравнивается пароли и имена
